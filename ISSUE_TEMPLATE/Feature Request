@@ -1,0 +1,14 @@
+----------------
+name: "✨ Feature request"
+about: Suggest a new feature or capability for UnoCode
+labels: feature request
+----------------
+
+**Requested Feature**
+Describe the feature or language/framework you want supported.
+
+**Use Case**
+Explain how this would help your workflow.
+
+**Example**
+Provide a short example of how you would expect UnoCode to handle it.
