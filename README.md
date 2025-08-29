@@ -21,6 +21,8 @@ Unique feature: **structured JSON error reporting** – developers don’t just 
 
 This repository is used only for **documentation and issue tracking** related to UnoCode (GPT Store edition).
 
+👉 Found a bug or have feedback? [Post an issue here](https://github.com/UnoVateIT/unocode-error-reporting/issues).
+
 ### Reporting a Bug
 
 When you open an issue, please include:
